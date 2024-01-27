@@ -1,6 +1,13 @@
+27-1-2024
+	- Chuyển đổi code PlayerMovement => CharacterMovement (Scene1)
+	- Đã giải quyết phần lớn hitbox trong scene1
+	- Đã Thêm Animation Death cho player (Scene1)
+
 26-1-2024
 	- Chỉnh sửa lại ground (Scene1)
 	- Merge code Scene2 vào main
+	- Thêm layer Far-Grounds (Scene1)
+	- Thêm 1 chút thử liên quan đến nhánh binh
 
 25-1-2024 
 	- Chỉnh sửa Pixel của project 
